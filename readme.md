@@ -1,6 +1,7 @@
 Aaron : A small browser engine that renders HTML and CSS.
 ========================================================================
 
+#Motivation
 I had the compiler classes this semester all about complier design, parsing, parse trees and a lot of things i did not understand.
 So i thought of giving a try to implement parsing :).
 
